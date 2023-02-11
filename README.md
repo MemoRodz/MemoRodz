@@ -19,7 +19,8 @@
 
 - 📝 I regularly write articles on [memoriasdonet in blogspot](https://memoriasdonet.blogspot.com/)  
   
-
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memorodz" alt="memorodz" /></a> </p>
 <br/>  
 
 
