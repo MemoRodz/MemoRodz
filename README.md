@@ -18,6 +18,8 @@
   
 
 - 📝 I regularly write articles on [memoriasdonet in blogspot](https://memoriasdonet.blogspot.com/)  
+
+📌 **IMPORTANT:** Due to technical issues with the graphic material provider, some elements are disabled.
   
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memorodz" alt="memorodz" /></a> </p>
